@@ -1,0 +1,6 @@
+Customer_ID,Age,Income,Gender,Purchase_Amount,City,Income_Standardized,Gender_Encoded,Age_Group
+1,25.0,50000.0,Male,200.0,New York,-0.9121817098024456,0.0,Young
+2,30.0,60000.0,Female,300.0,Los Angeles,-0.04343722427630693,1.0,Middle-aged
+3,,55000.0,,,Chicago,-0.47780946703937627,,
+4,35.0,57500.0,Female,400.0,,-0.2606233456578416,1.0,Middle-aged
+5,40.0,80000.0,Male,500.0,Houston,1.6940517467759704,0.0,Senior
